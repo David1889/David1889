@@ -5,7 +5,11 @@
 Soy **desarrollador backend** con una sólida base en desarrollo de software y gestión de bases de datos.  
 Me apasiona construir soluciones escalables y eficientes, utilizando tecnologías modernas para crear **APIs RESTful** y sistemas robustos.  
 
-Actualmente trabajo en la **Secretaría de Salud Pública de Rosario**, donde gestiono y mantengo bases de datos **Informix**, aplicando mis conocimientos en optimización de consultas y administración de datos.
+---
+
+## 🏢 Experiencia actual  
+💼 **Actualmente trabajo en la [Secretaría de Salud Pública de Rosario]**  
+Me desempeño en la **gestión y mantenimiento de bases de datos Informix**, enfocándome en la optimización de consultas, la integridad y el rendimiento de los datos, que son fundamentales para la toma de decisiones en el ámbito de la salud pública.
 
 ---
 
@@ -34,9 +38,6 @@ Estos son algunos proyectos que podrás encontrar en mis repositorios de GitHub:
 - 🗺️ **Sistema con geolocalización y PostGIS**  
   Prototipo de plataforma similar a MercadoLibre que utiliza **Flask**, **PostgreSQL** y **PostGIS** para ofrecer productos a usuarios dentro de un radio geográfico determinado.  
 
-- 🗃️ **CRUD con Flask y SQLite**  
-  Aplicación sencilla para gestión de datos, con enfoque en la práctica de APIs RESTful y SQLAlchemy.  
-
 - 🔗 **APIs REST con Node.js y Express**  
   Proyectos diseñados para la creación de APIs escalables y documentadas bajo estándares **OpenAPI**.
 
@@ -52,7 +53,3 @@ Estos son algunos proyectos que podrás encontrar en mis repositorios de GitHub:
 - 📍 Rosario, Argentina  
 - ✉️ **Email:** daviddelgadodev8@gmail.com  
 - 💼 **GitHub:** [github.com/David1889](https://github.com/David1889)
-
----
-
-> _"La programación es el arte de encontrar soluciones simples a problemas complejos."_  
