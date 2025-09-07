@@ -8,7 +8,7 @@ Me apasiona construir soluciones escalables y eficientes, utilizando tecnología
 ---
 
 ## 🏢 Experiencia actual  
-💼 **Actualmente trabajo en la [Secretaría de Salud Pública de Rosario]**  
+💼 Actualmente trabajo en la **Secretaría de Salud Pública de Rosario**  
 Me desempeño en la **gestión y mantenimiento de bases de datos Informix**, enfocándome en la optimización de consultas, la integridad y el rendimiento de los datos, que son fundamentales para la toma de decisiones en el ámbito de la salud pública.
 
 ---
