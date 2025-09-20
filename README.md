@@ -36,7 +36,7 @@ Me desempeño en la **gestión y mantenimiento de bases de datos Informix**, enf
 Estos son algunos proyectos que podrás encontrar en mis repositorios de GitHub:
 
 - 🗺️ **Sistema con geolocalización y PostGIS**  
-  Prototipo de plataforma similar a MercadoLibre que utiliza **Flask**, **PostgreSQL** y **PostGIS** para ofrecer productos a usuarios dentro de un radio geográfico determinado.  
+  Plataforma de e-commerce que utiliza **Flask**, **PostgreSQL** y **PostGIS** para ofrecer productos a usuarios dentro de un radio geográfico determinado.  
 
 - 🔗 **APIs REST con Node.js y Express**  
   Proyectos diseñados para la creación de APIs escalables y documentadas bajo estándares **OpenAPI**.
